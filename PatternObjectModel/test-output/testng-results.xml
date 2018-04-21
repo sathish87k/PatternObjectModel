@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69481" started-at="2018-04-14T06:29:06Z" finished-at="2018-04-14T06:30:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69481" started-at="2018-04-14T06:29:06Z" finished-at="2018-04-14T06:30:16Z">
+      <class name="testcases.TC007_DuplicateLead">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC007_DuplicateLead@123d65]" name="beforeSuite" is-config="true" duration-ms="1141" started-at="2018-04-14T11:59:05Z" finished-at="2018-04-14T11:59:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testcases.TC007_DuplicateLead@123d65]" name="setData" is-config="true" duration-ms="0" started-at="2018-04-14T11:59:06Z" finished-at="2018-04-14T11:59:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.TC007_DuplicateLead@123d65]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-04-14T11:59:06Z" finished-at="2018-04-14T11:59:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC007_DuplicateLead@123d65]" name="beforeMethod" is-config="true" duration-ms="19188" started-at="2018-04-14T11:59:08Z" finished-at="2018-04-14T11:59:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="duplicateTestLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.TC007_DuplicateLead@123d65]" name="duplicateTestLead" duration-ms="19943" started-at="2018-04-14T11:59:27Z" data-provider="fetchData" finished-at="2018-04-14T11:59:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Amazon]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sathish]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicateTestLead -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC007_DuplicateLead@123d65]" name="afterMethod" is-config="true" duration-ms="719" started-at="2018-04-14T11:59:47Z" finished-at="2018-04-14T11:59:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC007_DuplicateLead@123d65]" name="beforeMethod" is-config="true" duration-ms="7323" started-at="2018-04-14T11:59:48Z" finished-at="2018-04-14T11:59:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="duplicateTestLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.TC007_DuplicateLead@123d65]" name="duplicateTestLead" duration-ms="20189" started-at="2018-04-14T11:59:55Z" data-provider="fetchData" finished-at="2018-04-14T12:00:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Google]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicateTestLead -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC007_DuplicateLead@123d65]" name="afterMethod" is-config="true" duration-ms="672" started-at="2018-04-14T12:00:15Z" finished-at="2018-04-14T12:00:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC007_DuplicateLead@123d65]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-04-14T12:00:16Z" finished-at="2018-04-14T12:00:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC007_DuplicateLead@123d65]" name="afterSuite" is-config="true" duration-ms="641" started-at="2018-04-14T12:00:16Z" finished-at="2018-04-14T12:00:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.TC007_DuplicateLead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
